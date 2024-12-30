@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<filter type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    -1. -2. -1. -2. 0. 2. 1. 2. 1.</data></filter>
+</opencv_storage>
